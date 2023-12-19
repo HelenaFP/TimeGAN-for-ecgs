@@ -42,5 +42,5 @@ Here are some real signals, and synthetic signals created by TimeGAN.
 ---
 ### Code
 
-💻 [TimeGAN](https://nbviewer.jupyter.org/github/HelenaFP/TimeGAN-for-ecgs/blob/main/TimeGAN_train_and_evaluate_pynb.ipynb)<br/>
-💻 [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/HelenaFP/TimeGAN-for-ecgs/blob/main/ECG_dataset_exploratory_data_analysis.ipynb)
+💻 [TimeGAN](https://github.com/HelenaFP/TimeGAN-for-ecgs/blob/main/TimeGAN_train_and_evaluate_pynb.ipynb)<br/>
+💻 [Exploratory Data Analysis](https://github.com/HelenaFP/TimeGAN-for-ecgs/blob/main/ECG_dataset_exploratory_data_analysis.ipynb)
